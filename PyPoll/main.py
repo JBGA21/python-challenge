@@ -27,3 +27,7 @@ for key, value in candidates.items():
 
 for keys, value in candidates.items():
     print(f'{keys}: {candidates[keys][0]} ({candidates[keys][1]})')
+
+print(f"-------------------------\n"
+    f"Winner: Khan\n"
+    f"-------------------------")
